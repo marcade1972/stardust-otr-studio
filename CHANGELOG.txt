@@ -1,0 +1,239 @@
+Stardust Broadcast 1.9.3.1
+
+- Forces the canonical The Lone Ranger page to use its dedicated episode-library template.
+- Repairs the saved WordPress page-template assignment automatically.
+- Removes an accidentally inherited retired The Whistler featured image from The Lone Ranger page.
+- Keeps the confirmed domain-root archive path /theloneranger/.
+
+Stardust Broadcast 1.9.3
+- Added The Lone Ranger complete-series library and Western card.
+- Uses the confirmed domain-root MP3 archive at /theloneranger/.
+- Added searchable episodes, year navigation, shared playback, reactions, starter selections, and related-series recommendations.
+- Added a silver, saddle-leather, frontier-blue, and sunset presentation inspired by the masked rider and Silver.
+- PHP 7.4 compatible.
+
+Stardust Broadcast 1.9.2
+- Added the Lights Out complete-series library and Mystery & Suspense card.
+- Uses the confirmed domain-root MP3 archive at /lightsout/.
+- Added searchable episodes, year navigation, shared playback, reactions, starter selections, and related-series recommendations.
+- Added a charcoal, crimson, antique-bell, and 1930s horror presentation.
+- PHP 7.4 compatible.
+
+Stardust Broadcast 1.9.1
+- Added the Hall of Fantasy complete-series library and Mystery & Suspense card.
+- Uses the confirmed domain-root MP3 archive at /hof/.
+- Added searchable episodes, year navigation, shared playback, reactions, starter selections, and related-series recommendations.
+- Added a dark emerald, bronze, parchment, and candlelit occult-library presentation.
+- PHP 7.4 compatible.
+
+Version 1.9.0
+- Added a complete The Six Shooter searchable episode-library template.
+- Added The Six Shooter to the Western genre collection.
+- Added archive detection, year navigation, shared playback, and episode reactions for The Six Shooter.
+- Preserved the proven domain-root audio URL handling.
+
+1.8.9
+- Added a complete Gunsmoke searchable episode-library template.
+- Added the Western genre collection to the Broadcast Library.
+- Added domain-root archive detection, year navigation, shared playback, and episode reactions for Gunsmoke.
+- Added a distinctive Dodge City design with leather, rust, brass, sand, and U.S. Marshal badge styling.
+- Preserved all features and series from v1.8.8.
+
+Version 1.8.8
+- Added the Our Miss Brooks complete-series comedy library.
+- Added Our Miss Brooks to the Comedy section of the Broadcast Library.
+- Added recursive archive detection for common Our Miss Brooks folder names.
+- Preserved domain-root audio playback, episode search, year navigation, and reactions.
+- Added a Madison High classroom design inspired by Connie Brooks, Mr. Boynton, and the series’ school-day comedy.
+
+Version 1.8.7
+- Added The Life of Riley complete-series comedy library.
+- Added The Life of Riley to the Comedy section of the Broadcast Library.
+- Added recursive archive detection for common Life of Riley folder names.
+- Preserved domain-root audio playback, searchable episodes, year navigation, and episode reactions.
+- Added a warm working-class family-home design inspired by Chester A. Riley’s lovable misadventures.
+
+Version 1.8.6
+- Added The Jack Benny Program complete-series comedy library.
+- Added Jack Benny to the Comedy section of the Broadcast Library.
+- Added recursive archive detection for common Jack Benny folder names.
+- Added searchable episodes, year navigation, shared playback, and reactions.
+- Added a blue, gold, and vintage radio-stage design inspired by Jack Benny’s famous comic persona.
+
+1.8.5
+- Added the Burns and Allen complete-series comedy library.
+- Added the Comedy genre collection to the Broadcast Library.
+- Added recursive archive detection for several common Burns and Allen folder names.
+- Preserved the domain-root audio fix, year navigation, episode search, and reactions.
+- Added a warm stage-show design inspired by classic radio comedy and the Burns and Allen partnership.
+
+Version 1.8.4 — Yours Truly, Johnny Dollar Library
+
+- Added the Yours Truly, Johnny Dollar Episode Library template.
+- Added recursive MP3 scanning with supported Johnny Dollar folder-name variations.
+- Uses the detected domain-root archive folder for stable public audio URLs.
+- Added episode search, broadcast-year navigation, shared player, and reactions.
+- Added series history, quick facts, starter episodes, and related-series cards.
+- Added Yours Truly, Johnny Dollar to Crime & Detective in the Broadcast Library.
+- Added custom expense-account, brass, paper, and deep-green styling.
+
+1.8.3.1
+- Fixed The Mysterious Traveler archive discovery so it no longer scans the Dragnet folder.
+- Added support for common Mysterious Traveler archive folder names.
+- Corrected filename prefix cleanup for The Mysterious Traveler episodes.
+- Preserved domain-root playback for WordPress installations located in /wordpress/.
+
+Stardust Broadcast 1.8.3
+- Added a complete The Mysterious Traveler series-library page template.
+- Added recursive scanning for /mysterious-traveler/, /themysterioustraveler/, /mysterioustraveler/, and /mysterious_traveler/ archive folders.
+- Added series history, quick facts, five starter episodes, related-series cards, year navigation, episode search, reactions, and the stable domain-root audio player.
+- Added The Mysterious Traveler to Mystery & Suspense in the Broadcast Library with featured-image support.
+- Added midnight blue, silver moonlight, violet fog, and railroad-lantern styling.
+
+Stardust Broadcast 1.8.2
+- Added a complete Dragnet series-library page template.
+- Added recursive scanning of the public /dragnet/ MP3 archive.
+- Added series history, quick facts, recommended starter episodes, related-series cards, year navigation, episode search, reactions, and the stable domain-root audio player.
+- Added a new Crime & Detective collection to the Broadcast Library with a featured-image-enabled Dragnet card.
+- Added steel, charcoal, badge-silver, and restrained red styling inspired by Dragnet's documentary police-procedural identity.
+
+Stardust Broadcast 1.8.1
+- Added the complete Escape series library template.
+- Added Escape to the Adventure genre in the Broadcast Library.
+- Included searchable episodes, year navigation, shared audio playback, and thumbs reactions.
+- Preserved the domain-root archive URL fix used by all current series.
+
+Version 1.8.0
+- Added Inner Sanctum Episode Library template.
+- Added Inner Sanctum to the Broadcast Library.
+- Retained the domain-root audio URL fix from 1.7.9.3.
+
+Version 1.7.9.3
+- Fixed all Broadcast Library audio URLs when WordPress is installed in /wordpress/ but MP3 archives are stored at the domain root.
+- The Whistler now loads from https://stardustotr.com/thewhistler/ instead of https://stardustotr.com/wordpress/thewhistler/.
+- Applied the same domain-root fix to X Minus One, Dimension X, CBS Radio Mystery Theater, The Shadow, and Suspense.
+
+= 1.7.9.2 =
+* Hotfix: The Whistler player now builds MP3 URLs from the archive folder actually detected on the server.
+* Added explicit audio reload and visible playback error handling.
+
+Stardust OTR Studio 1.7.9
+
+- Added The Whistler Episode Library template.
+- Added recursive MP3 discovery for /the-whistler/, /thewhistler/, and /whistler/.
+- Added The Whistler spotlight, quick facts, starter episodes, recommendations, year navigation, search, shared player, and episode reactions.
+- Added The Whistler card to Mystery & Suspense in the Broadcast Library.
+- Added a distinctive moonlit teal/noir visual treatment for The Whistler.
+
+Stardust Broadcast 1.7.8
+- Added the complete Suspense series library template with recursive /suspense/ MP3 scanning.
+- Added Suspense history, quick facts, starter episodes, related-series recommendations, year navigation, shared player, search, and thumbs up/down reactions.
+- Reorganized the Broadcast Library into expandable genre collections, beginning with Mystery & Suspense and Science Fiction.
+- Replaced initials on Broadcast Library cards with real series artwork. Each card uses the WordPress page featured image when available and a genre image as a fallback.
+- Added Suspense to the Broadcast Library and its Mystery & Suspense collection.
+- Kept the library structure reusable so Western, Comedy, Detective, Family, and other collections can be added cleanly.
+- PHP 7.4 compatible.
+
+Stardust Broadcast 1.7.7
+- Added the new Broadcast Library page template.
+- Added instant series search by title, genre, network, description, or broadcast year.
+- Added genre filter buttons with live result counts and an accessible empty state.
+- Added museum-style cards for The Shadow, X Minus One, Dimension X, and CBS Radio Mystery Theater.
+- Added reusable series configuration through the stardust_broadcast_library_series filter for future libraries.
+- Kept each individual series page's episode search separate from the new collection search.
+- PHP 7.4 compatible.
+
+Stardust OTR Studio 1.7.6
+- Upgraded X Minus One, Dimension X, and CBS Radio Mystery Theater with museum-style Series Spotlight sections matching The Shadow.
+- Added quick facts, starter recommendations, and More Like This Series cards.
+- Added browser-local thumbs up/down reactions to every episode on all four complete-series pages.
+- Reactions require no account and do not publish global vote totals.
+
+1.7.5
+- Added The Shadow complete-series library template with recursive /theshadow/ scanning.
+- Added noir Series Spotlight, historical quick facts, starter episodes, and More Like This Series cards.
+- Added search, shared player, optional year navigation, year dividers, caching, and responsive styling.
+- Added The Shadow to Mystery and Thriller complete-library cards.
+
+1.7.4
+- Added prominent Art Deco year dividers throughout the CBS Radio Mystery Theater episode list.
+- Added automatically calculated broadcast counts for every year.
+- Added a compact Jump to Year panel with smooth scrolling.
+- Year dividers remain visible while scrolling on desktop and automatically hide when filters remove that year.
+- Preserved all existing CBSRMT search, year filtering, shared player, and complete-series features.
+
+1.7.3
+- Added a dedicated CBS Radio Mystery Theater complete-series page template.
+- Recursively scans /cbsrmt/ and all nested year folders for MP3 files.
+- Added fast title/episode/date search plus a broadcast-year filter for the 1,400+ episode collection.
+- Added a shared full HTML5 player with play/pause, elapsed time, duration, seek, and volume controls.
+- Added 30-minute server-side scan caching to keep this very large library responsive.
+- Preserved all existing X Minus One, Dimension X, genre archive, header, and player features.
+
+1.7.2
+- Restored the full Stardust series-library styling on the Dimension X page.
+- Restored the shared HTML5 audio player with play/pause, elapsed time, total duration, seek bar, and volume controls.
+- Corrected concatenated Dimension X filenames into readable official episode titles.
+- Kept instant search, one-player-at-a-time behavior, responsive episode rows, and all existing theme features.
+
+Stardust Broadcast 1.7.1
+- Added a searchable Dimension X complete-series page template that scans /dimensionx/.
+- Added X Minus One and Dimension X complete-series cards to the Sci-Fi genre archive.
+- Preserved all v1.7.0 X Minus One library features.
+
+Stardust Broadcast 1.7.0
+- Added a genuine WordPress page template named "X Minus One Episode Library".
+- Added safe server-side scanning of the public /x-1/ MP3 directory.
+- Added filename parsing, instant search, episode count, and one shared audio player.
+- Added responsive Stardust styling and administrator diagnostics when the folder cannot be found.
+
+1.6.9
+- Added a compact “Broadcasts You’ll Find Here” preview to the top of every recognized genre archive.
+- Shows up to eight linked episode titles with their series names before the full episode list.
+- Keeps the preview limited to the first archive page so pagination remains uncluttered.
+- Added responsive two-column desktop and single-column mobile styling.
+
+1.6.8
+- Fixed genre archives so they show the complete back catalogue instead of only directly assigned recent posts.
+- Genre pages now include episodes filed under matching series categories, including older X Minus One posts on Sci-Fi.
+- Displays up to 24 broadcasts per archive page with normal pagination for larger collections.
+
+1.6.6
+- Added a glowing red ON AIR sign beneath the signature microphone.
+- Added a gentle broadcast-light pulse with reduced-motion accessibility support.
+- Kept the sign responsive across desktop, tablet, and mobile layouts.
+
+Stardust Broadcast 1.6.2
+- Duplicate audio player cleanup on archive and episode pages.
+- Raw MP3/audio-file URLs are no longer displayed in episode copy.
+- Keeps one dedicated Stardust audio player per episode.
+
+
+- Rebuilt the front-page header as a cinematic Stardust OTR masthead.
+- Positioned the dynamic Featured Broadcast beside the Stardust OTR branding.
+- Added responsive desktop, tablet, and mobile masthead layouts.
+- Moved Genres directly beneath the main navigation to match the approved design.
+- Retained the Actor Database, ratings, Top 5, YouTube settings, favicon, and navy-and-gold museum styling.
+
+Stardust Broadcast 1.6.0
+
+- Added Actor Database custom post type.
+- Added actor directory and biography page templates.
+- Added Actor Details editor fields for life dates, birthplace, known work, timeline, and related people.
+- Added Actors to the fallback navigation.
+- Added navy and gold brand color controls in Appearance > Customize > Stardust Station Settings.
+- Added a shooting-star and vintage-microphone favicon family.
+- Updated the genre gallery to the approved ten-card arrangement.
+- Replaced Historical with Detective.
+- Added new black-and-white Western and Juvenile artwork.
+- Removed episode counts from genre presentation.
+- Added a broader navy-and-gold museum-style visual refresh.
+- Retained Listener Ratings, Top 5, YouTube settings, Tune the Dial, and Series Information features.
+- PHP 7.4 compatible.
+
+1.6.5
+- Rebuilt the homepage masthead as a two-part responsive layout.
+- Added the complete Stardust OTR signature artwork with the realistic glowing microphone and skyline.
+- Prevented logo and microphone cropping by displaying the artwork as a responsive image element.
+- Tightened the Featured Broadcast panel so its copy, artwork, and button remain grouped without a large empty gap.
+- Added responsive stacking for tablets and phones.

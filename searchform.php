@@ -1,0 +1,1 @@
+<form role="search" method="get" class="search-form" action="<?php echo esc_url(home_url('/')); ?>"><label class="screen-reader-text" for="site-search">Search Episodes</label><input id="site-search" type="search" name="s" value="<?php echo esc_attr(get_search_query()); ?>" placeholder="Search episodes…"><button type="submit" aria-label="Search">⌕</button></form>
